@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+seaborn
+plotly.graph_objects
+sklearn
+plotly.express
