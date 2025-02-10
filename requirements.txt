@@ -2,6 +2,5 @@ streamlit
 pandas
 numpy
 seaborn
-plotly.graph_objects
+plotly
 sklearn
-plotly.express
